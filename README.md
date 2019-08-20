@@ -25,4 +25,5 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 Corrija-o.
 
 -**20/08/2019**
+
 2. Para o formulário do arquivo [exercicio2.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/exercicio2.html), crie um .js usando funções jquery para adicionar aos inputs a classe "is-invalid" quando houver um erro de preenchimento ou a classe "is-valid" para preenchimentos corretos.
