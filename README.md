@@ -21,5 +21,5 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 # Exercícios laboratório
 
 -**20/08/2019**
-1. No arquivo (index_c.html)[https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/index_c.html] há um erro no jquery que não permite que o botão __"Limpar"__ remova os valores dos campos do formulário.
+1. No arquivo [index_c.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/index_c.html) há um erro no jquery que não permite que o botão __"Limpar"__ remova os valores dos campos do formulário.
 Corrija-o.
