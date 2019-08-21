@@ -21,5 +21,6 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 - **MySQL**
   - [Manual oficial MySQL](https://www.mysql.com/)
 
-# [Trabalhos]((https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/README.md))
+# Trabalhos
+# [Clique para ir para os trabalhos](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/README.md)
 
