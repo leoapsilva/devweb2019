@@ -3,7 +3,9 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 
 # Documentação de referência
 - **git**
-    -[Guia prático e rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+  - [Guia prático e rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- **HTML**
+  - [API de validação de campos de formulários](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#the-constraint-validation-api)
 - **Bootstrap** 
   - [Manual oficial bootstrap v4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
   - [W3schools bootstrap](https://www.w3schools.com/bootstrap/)
