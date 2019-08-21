@@ -19,10 +19,11 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 - **MySQL**
   - [Manual oficial MySQL](https://www.mysql.com/)
 
-## Regras
-# [x] :zap: Tolerância zero para atrasos. Entrega atrasada é igual a não entregue :poop:
+# Regras de entrega de trabalhos
+## :zap: Tolerância zero para atrasos :zap: 
+## :poop: Entrega atrasada é igual a trabalho não entregue :poop:
 
-# Exercícios laboratório
+# Trabalhos laboratório
 
 -**13/08/2019**
 1. No arquivo [index_c.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/index_c.html) há um erro no jquery que não permite que o botão __"Limpar"__ remova os valores dos campos do formulário.
