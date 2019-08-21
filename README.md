@@ -2,6 +2,8 @@
 Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computação 2019/2
 
 # Documentação de referência
+- **git**
+    -[Guia prático e rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - **Bootstrap** 
   - [Manual oficial bootstrap v4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
   - [W3schools bootstrap](https://www.w3schools.com/bootstrap/)
