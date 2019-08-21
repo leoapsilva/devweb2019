@@ -3,27 +3,36 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 
 # Documentação de referência
 - **Bootstrap** 
-  - https://getbootstrap.com/docs/4.1/getting-started/introduction/
-  - https://www.w3schools.com/bootstrap/
-- **jquery**
-  - https://api.jquery.com/
-  - https://www.w3schools.com/jquery/
+  - [Manual oficial bootstrap v4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+  - [W3schools bootstrap](https://www.w3schools.com/bootstrap/)
+- **jQuery**
+  - [Manual oficial jQuery](https://api.jquery.com/)
+  - [W3schools jQuery](https://www.w3schools.com/jquery/)
+  - [Criando plugins em jQuery](https://www.codigofonte.com.br/artigos/aprenda-a-criar-seu-proprio-plugin-no-jquery)
 - **PHP** 
-  - https://www.php.net/manual/pt_BR/getting-started.php
-  - https://www.w3schools.com/php/
+  - [Manual oficial do PHP](https://www.php.net/manual/pt_BR/getting-started.php)
+  - [W3schools PHP](https://www.w3schools.com/php/)
 - **AJAX**
-  - https://www.w3schools.com/xml/ajax_intro.asp
+  - [W3schools AJAX](https://www.w3schools.com/xml/ajax_intro.asp)
 - **SQL**
-  - https://www.w3schools.com/sql/
+  - [W3schools SQL](https://www.w3schools.com/sql/)
 - **MySQL**
-  - https://www.mysql.com/
+  - [Manual oficial MySQL](https://www.mysql.com/)
   
 # Exercícios laboratório
+- [x] :zap: Tolerância zero para atrasos. Entrega atrasada é igual a não entregue :poop:
 
 -**13/08/2019**
 1. No arquivo [index_c.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/index_c.html) há um erro no jquery que não permite que o botão __"Limpar"__ remova os valores dos campos do formulário.
 Corrija-o.
 
+-[x] Resolvido - 20/08/2019 -  [exercicio1.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/exercicio1.html) e [exercicio1.js](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/js/exercicio1.js)
+
 -**20/08/2019**
 
-2. Para o formulário do arquivo [exercicio2.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/exercicio2.html), crie um .js usando funções jquery para adicionar aos inputs a classe "is-invalid" quando houver um erro de preenchimento ou a classe "is-valid" para preenchimentos corretos.
+2. Para o formulário do arquivo [exercicio2.html](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/exercicio2.html):
+    a) Crie um arquivo js chamado **exercicio2.js** 
+    b) Crie funções em jquery para adicionar aos inputs a classe "is-invalid" quando os campos forem vazios e adicione a classe "is-valid" para valores dos inputs preenchidos.
+    c) Crie um botão para limpar os campos do formulário usando o conhecimento do exercício anterior.
+    d) Crie uma biblioteca com as funções comuns entre o exercício 1 e exercício 2 para que não haja duplicação de código
+- [] Entrega em 26/08/2019 - enviar por email o endereço do repositório.
