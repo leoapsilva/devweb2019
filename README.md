@@ -4,6 +4,8 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 # Documentação de referência
 - **git**
   - [Guia prático e rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- **GitHub**
+  - [Guia para formatação de README - este arquivo que você está lendo](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 - **HTML**
   - [API de validação de campos de formulários](https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#the-constraint-validation-api)
 - **Bootstrap** 
