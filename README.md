@@ -11,6 +11,7 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
 - **Bootstrap** 
   - [Manual oficial bootstrap v4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
   - [W3schools bootstrap](https://www.w3schools.com/bootstrap/)
+  - [Utilizando bootstrap para formatar validação de formulários](https://getbootstrap.com/docs/4.1/components/forms/#validation)
 - **jQuery**
   - [Manual oficial jQuery](https://api.jquery.com/)
   - [W3schools jQuery](https://www.w3schools.com/jquery/)
