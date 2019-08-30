@@ -16,6 +16,7 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
   - [Manual oficial jQuery](https://api.jquery.com/)
   - [W3schools jQuery](https://www.w3schools.com/jquery/)
   - [Criando plugins em jQuery](https://www.codigofonte.com.br/artigos/aprenda-a-criar-seu-proprio-plugin-no-jquery)
+  - [Seletores](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
 - **PHP** 
   - [Manual oficial do PHP](https://www.php.net/manual/pt_BR/getting-started.php)
   - [W3schools PHP](https://www.w3schools.com/php/)
