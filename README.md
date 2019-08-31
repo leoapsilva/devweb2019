@@ -29,6 +29,8 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
   - [Manual oficial MySQL](https://www.mysql.com/)
  - **Node.js**
   - [Por que usar Node.js? Reflexões de um programador no stackoverflow (em inglês)](https://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js?rq=1)
+ - **RegExp**
+  - [Debuger Online de RegExp - ele explica o que cada parte da sua expressão está fazendo](https://regex101.com/)
 
 # Trabalhos
 # [Clique para ir para os trabalhos](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/README.md)
