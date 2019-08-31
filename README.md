@@ -17,6 +17,7 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
   - [W3schools jQuery](https://www.w3schools.com/jquery/)
   - [Criando plugins em jQuery](https://www.codigofonte.com.br/artigos/aprenda-a-criar-seu-proprio-plugin-no-jquery)
   - [Seletores](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
+  - [Snippets em jQuery](jquey.md)
 - **PHP** 
   - [Manual oficial do PHP](https://www.php.net/manual/pt_BR/getting-started.php)
   - [W3schools PHP](https://www.w3schools.com/php/)
@@ -26,6 +27,8 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
   - [W3schools SQL](https://www.w3schools.com/sql/)
 - **MySQL**
   - [Manual oficial MySQL](https://www.mysql.com/)
+ - **Node.js**
+  - [Por que usar Node.js? Reflexões de um programador no stackoverflow (em inglês)](https://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js?rq=1)
 
 # Trabalhos
 # [Clique para ir para os trabalhos](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/README.md)
