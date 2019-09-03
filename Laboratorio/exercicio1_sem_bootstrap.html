@@ -8,15 +8,37 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>1.a Versão</title>
     <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/form.js"></script>
+    <!--<script type="text/javascript" src="js/exercicio1.js"></script> -->
 
 </head>
 
 <body>
-    <center>
-        <form action="form.php">
-            <p>
+
+        <style>
+                .botao_bunito {
+                    color: blue;
+                    background: grey;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    font-size: 15px;
+                    text-align: right;
+                 };
+
+                 p.a {
+                     margin: 30px 0;
+                 }
+
+            </style>
+        
+        <p class="a">BLA BLA BLA </p> 
+        <form action="form.php" id="formulario">
+            <p> 
                 <label>Nome</label>
+                <script>
+                        $(document).ready(function(){
+                            $("#nome").val("BLBALALLALALLA");
+                        });
+                </script>
+                                    
                 <input type="text" id="nome" placeholder="João" value="" width="30" />
             </p>
             <p>
@@ -27,10 +49,16 @@
                 <label>Telefone</label>
                 <input type="tel" id="telefone" placeholder="17 98729-1082" value="" width="11" required/>
             </p>
-            <input type="submit">
+            <p>
+                    <label class="botao_bunito">Voltar</label>
+                    <input type="tel" class="botao_bunito" id="voltar" placeholder="17 98729-1082" value="" width="11" required/>
+                </p>
+                <input type="submit">
+            <button type="button">Limpar</button>
+            <button type="button" id="voltar">VOLTAR</button>
+            <button type="button" class="botao_bunito" id="voltar">CONTINUAR</button>
         </form>
-    </center>
-
+        </div>
 </body>
 
 </html>
