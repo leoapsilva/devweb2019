@@ -20,7 +20,8 @@ Repositório das aulas de Desenvolvimento Web da Unilago Engenharia de Computaç
   - [Snippets em jQuery](jquey.md)
 - **PHP** 
   - [Manual oficial do PHP](https://www.php.net/manual/pt_BR/getting-started.php)
-  - [Primeiro programa em PHP~(https://www.php.net/manual/pt_BR/tutorial.firstpage.php)
+  - [Primeiro programa em PHP](https://www.php.net/manual/pt_BR/tutorial.firstpage.php)
+  - [PHP $_SESSION](https://www.php.net/manual/pt_BR/reserved.variables.session.php)
   - [W3schools PHP](https://www.w3schools.com/php/)
 - **AJAX**
   - [W3schools AJAX](https://www.w3schools.com/xml/ajax_intro.asp)
