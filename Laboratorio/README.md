@@ -19,5 +19,7 @@ Corrija-o.
     - d) Crie uma biblioteca com as funções comuns entre o exercício 1 e exercício 2 para que não haja duplicação de código
 - [ ] Entrega em 26/08/2019 - enviar por email o endereço do repositório.
 
--**24/09/2019**
+# AVALIAÇÃO 1.o BIMESTRE
+
+## :zap: **24/09/2019** :zap:
 Avaliação: Em grupo, criar o sistema descrito no [documento](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/Trabalhos/2019-09-09%20Trabalho%201.o%20Bim%20DevWeb.docx) 
