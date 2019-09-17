@@ -18,3 +18,6 @@ Corrija-o.
     - c) Crie um botão para limpar os campos do formulário usando o conhecimento do exercício anterior.
     - d) Crie uma biblioteca com as funções comuns entre o exercício 1 e exercício 2 para que não haja duplicação de código
 - [ ] Entrega em 26/08/2019 - enviar por email o endereço do repositório.
+
+-**24/09/2019**
+Avaliação: Em grupo, criar o sistema descrito no [documento](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/Trabalhos/2019-09-09%20Trabalho%201.o%20Bim%20DevWeb.docx) 
