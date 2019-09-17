@@ -36,6 +36,8 @@
 <?php
 session_start();
 
+include "db/db.php";
+
 if (!empty($_POST)) {
     if ($_POST["login"] == "login") {
 
@@ -44,11 +46,13 @@ if (!empty($_POST)) {
         $ret = login($_POST["user"], $_POST["password"]);
 
         if ($ret) {
-            echo "Bem-vindo ". $_SESSION['user'];
+            echo "<br>Bem-vindo ". $_SESSION['user'];
+            $_SESSION['groupId'] = $ret[0]['groupId'];
+            echo "<br>Você tem privilégio Grupo = " . $_SESSION['groupId'];
         }
         else
         {
-            echo "Usuário ou senha incorretos. Corrija";
+            echo "<br>Usuário ou senha incorretos. Corrija<br>";
         }
     }
 }
@@ -57,6 +61,24 @@ if (!empty($_POST)) {
 // Verifica na base de dados se o usuário e senha estão corretos
 function login($user, $password)
 {
-    return true;
+
+    $MD5_password = md5($password);
+
+    echo "MD5 = " . $MD5_password;
+
+    try{
+
+        $userInfo = checkLogin($user, $MD5_password);
+       
+        echo "<pre>user = ". print_r($userInfo, true) . "</pre>";
+
+        return $userInfo;
+    }
+    catch(Exception $e)
+    {
+        echo "Desculpe, ocorreu um erro: " . $e->getMessage();
+    }
+
+
 }
 ?>
