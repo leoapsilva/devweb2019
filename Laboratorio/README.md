@@ -5,7 +5,7 @@
 # AVALIAÇÃO 1.o BIMESTRE
 
 ## :zap: **24/09/2019** :zap:
-Avaliação: Em grupo, criar o sistema descrito no [documento](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/Trabalhos/2019-09-09%20Trabalho%201.o%20Bim%20DevWeb.docx) 
+Avaliação: Em grupo, criar o sistema descrito no [documento](https://github.com/leoapsilva/devweb2019/blob/master/Laboratorio/Trabalhos) 
 
 # Trabalhos laboratório
 
